@@ -3,7 +3,7 @@ import sqlite3
 import datetime
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import letter
-from flask import Flask, render_template_string, request, send_file, redirect, url_for
+
 import sqlite3
 import os
 
